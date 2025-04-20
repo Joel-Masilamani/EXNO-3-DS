@@ -32,6 +32,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 # CODING AND OUTPUT:
 
+
 REG NO : 212224220043
 NAME   : JOEL MASILAMANI A
 
